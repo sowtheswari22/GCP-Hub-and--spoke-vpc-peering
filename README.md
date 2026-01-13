@@ -3,6 +3,7 @@ Hub-and-Spoke using VPC Peering (GCP Console)
 Target Design
 Hub VPC  ⇄  Spoke-1 VPC
 Hub VPC  ⇄  Spoke-2 VPC
+
 Hub VPC  ⇄  Spoke-3 VPC
 
 ✔ Spokes → Hub communication allowed
